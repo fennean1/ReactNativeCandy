@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeCandyPartTwo'
+
+include ':app'
